@@ -1,0 +1,7 @@
+.env
+
+# Dependency directories
+node_modules/
+
+# dataconnect generated files
+.dataconnect
